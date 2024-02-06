@@ -10,10 +10,14 @@
 ## About
 A crud based laravel app to learn how to integrate react and other important react feature in laravel.
 
-> A better laravel react single page app: [Ezfolio](https://github.com/arifszn/ezfolio)
+   - A homepage with a navigation bar. 
 
-## Demo ##
-[https://szn-react-laravel.herokuapp.com](https://szn-react-laravel.herokuapp.com)
+   - At least two additional pages with distinct content. 
+
+   - Responsive design for mobile and desktop. 
+
+   - Integration of state management (if applicable). 
+
 
 ## Topics Convered
 - React
