@@ -40,7 +40,7 @@ A crud based laravel app to learn how to integrate react and other important rea
 <br />
 
 ## Installation
-- Run ```git clone https://github.com/Gmurtazak/react-laravel.git```
+- Run ```git clone https://github.com/arifszn/react-laravel.git```
 - Run ```cd react-laravel```
 - Run ```composer install```
 - Setup database
