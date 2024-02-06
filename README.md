@@ -63,4 +63,4 @@ Show your ❤️ and support by giving a ⭐.
 ## License
 
 <p>MIT Licensed.</p>
-<p>Copyright © <a href="https://Gmurtazak.github.io">Gmurtazak</a> 2021.</p>
+<p>Copyright © <a href="https://Gmurtazak.github.io">Gmurtazak</a> 2024.</p>
