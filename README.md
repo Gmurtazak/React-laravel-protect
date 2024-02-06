@@ -29,13 +29,13 @@ A crud based laravel app to learn how to integrate react and other important rea
 - Sass
 
 ## Screenshots
-![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/main/public/assets/images/screenshots/1.png)
+![alt text](https://raw.githubusercontent.com/Gmurtazak/react-laravel/main/public/assets/images/screenshots/1.png)
 <br />
 <br />
 
 ***
 
-![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/main/public/assets/images/screenshots/2.png)
+![alt text](https://raw.githubusercontent.com/Gmurtazak/react-laravel/main/public/assets/images/screenshots/2.png)
 <br />
 <br />
 
@@ -50,9 +50,6 @@ A crud based laravel app to learn how to integrate react and other important rea
 - Run ```php artisan migrate --seed```
 
 
-## Thank You
-
-[![Stargazers repo roster for @arifszn/react-laravel](https://reporoster.com/stars/arifszn/react-laravel)](https://github.com/arifszn/react-laravel/stargazers)
 
 ## Support
 
@@ -62,4 +59,4 @@ Show your ❤️ and support by giving a ⭐.
 ## License
 
 <p>MIT Licensed.</p>
-<p>Copyright © <a href="https://arifszn.github.io">MD. Ariful Alam</a> 2021.</p>
+<p>Copyright © <a href="https://Gmurtazak.github.io">Gmurtazak</a> 2021.</p>
